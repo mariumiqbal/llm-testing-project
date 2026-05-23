@@ -1,0 +1,7 @@
+Company: TechCorp Inc
+Founded: 2010
+CEO: Sarah Johnson
+Employees: 500
+Revenue: $50 million
+Products: CloudBase, DataSync, AutoFlow
+Headquarters: Chicago, Illinois
